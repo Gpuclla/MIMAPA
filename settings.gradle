@@ -1,0 +1,2 @@
+rootProject.name = "MIMAPA"
+include ':app'
